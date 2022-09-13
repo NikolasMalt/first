@@ -1,2 +1,4 @@
 New string!
 New string2!
+
+Hello Git!
